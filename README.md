@@ -259,5 +259,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Eesha Khan
 Project Link: [https://github.com/EeshaaKhan/task-management-system.git](https://github.com/EeshaaKhan/task-management-system.git)
