@@ -175,7 +175,7 @@ def test_create_task(self, client, sample_user_data, sample_task_data):
 ## 🏁 Conclusion
 This project successfully demonstrates professional software development practices with clean architecture, comprehensive testing, proper error handling, and production-ready deployment configuration. The implementation showcases advanced Python development skills and software engineering best practices suitable for enterprise-level applications.
 
-**Repository URL**: `https://github.com/EeshaaKhan/task-management-system.git`
+**Repository URL**: `https://github.com/EeshaaKhan/FastAPI-task-management-system.git`
 
 **Key Commands for Setup**:
 ```bash

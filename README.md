@@ -259,4 +259,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Project Link: [https://github.com/EeshaaKhan/task-management-system.git](https://github.com/EeshaaKhan/task-management-system.git)
+Project Link: [https://github.com/EeshaaKhan/FastAPI-task-management-system.git](https://github.com/EeshaaKhan/FastAPI-task-management-system.git)
